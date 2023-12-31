@@ -1,4 +1,4 @@
-<img src="https://tse1.mm.bing.net/th?id=OIP.T64jCkFbCj-xLqCe1tUWFgHaCq&pid=Api&P=0&h=180" width="1000" alt="Header">
+![Header](/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Muthukumar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
